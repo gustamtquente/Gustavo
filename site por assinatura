@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Assinatura de Conteúdo</title>
+</head>
+<body>
+    <header>
+        <h1>Assinatura de Conteúdo</h1>
+        <nav>
+            <ul>
+                <li><a href="#benefits">Benefícios</a></li>
+                <li><a href="#pricing">Preços</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="benefits">
+        <h2>Benefícios da Assinatura</h2>
+        <div class="benefit">
+            <h3>Acesso Exclusivo</h3>
+            <p>Tenha acesso a conteúdos exclusivos que não estão disponíveis para não-assinantes.</p>
+        </div>
+        <div class="benefit">
+            <h3>Conteúdos Novos Todo Mês</h3>
+            <p>Receba novos artigos, vídeos e tutoriais todo mês para se manter atualizado.</p>
+        </div>
+        <div class="benefit">
+            <h3>Comunidade</h3>
+            <p>Participe de uma comunidade ativa e interaja com outros assinantes e criadores de conteúdo.</p>
+        </div>
+    </section>
+
+    <section id="pricing">
+        <h2>Preços</h2>
+        <div class="price-card">
+            <h3>Mensal</h3>
+            <p>R$ 29,90/mês</p>
+            <button>Assinar</button>
+        </div>
+        <div class="price-card">
+            <h3>Anual</h3>
+            <p>R$ 299,90/ano</p>
+            <button>Assinar</button>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <h2>Contato</h2>
+        <p>Se você tiver alguma dúvida, entre em contato conosco através do e-mail: contato@assinatura.com</p>
+    </footer>
+</body>
+</html>
